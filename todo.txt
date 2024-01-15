@@ -1,0 +1,18 @@
+TODOs:
+
+1. Upload current ver. to github w/ gnu3 and readme
+
+2. If multiple files in input, ask user if they either want to copy:
+    a. All files in 1 mod folder.
+        or
+    b. Each file in separate mod folders.
+
+3. Allow user to choose which slots to copy.
+
+4. Functionality for more than 8 slots for each character.
+
+5. Possibly implement a GUI?
+
+6. Allow user to exclude certain characters
+
+pyinstaller --onefile UltimateFileDuplicator.py
