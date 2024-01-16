@@ -8,6 +8,9 @@ import os, subprocess, shutil, msvcrt
 def main():
     # quit if input is empty
     inputContents = os.listdir(".\\input")
+    if ".placeholder" in inputContents:
+        os.remove(".\\input\\.placeholder")
+        inputContents = os.listdir(".\\input") # remove placeholder from input
     if len(inputContents) <= 0:
         print("No file(s) in input folder!")
         programEnd()
@@ -17,7 +20,7 @@ def main():
         if a.lower() != "y":
             programEnd()
         else:
-            shutil.rmtree(".\\output\\My_Mod")
+            shutil.rmtree(".\\output\\My_Mod")  # creating a mod replaces placeholder in output
 
     copyCharFolders()
     for inputNum in range(len(inputContents)):
