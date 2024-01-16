@@ -9,8 +9,8 @@ def main():
     # quit if input is empty
     inputContents = os.listdir(".\\input")
     if ".placeholder" in inputContents:
-        os.remove(".\\input\\.placeholder")
-        inputContents = os.listdir(".\\input") # remove placeholder from input
+        os.remove(".\\input\\.placeholder") # remove placeholder from input
+        inputContents = os.listdir(".\\input")
     if len(inputContents) <= 0:
         print("No file(s) in input folder!")
         programEnd()
