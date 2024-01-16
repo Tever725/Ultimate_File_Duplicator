@@ -1,0 +1,120 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Tuesday, January 16, 2024 3:17:51 PM
+   Source : C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\
+     Dest : C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\output\My_Mod\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\bayonetta\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\brave\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\buddy\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\captain\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\chrom\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\cloud\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\daisy\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\dedede\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\demon\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\diddy\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\dolly\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\donkey\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\duckhunt\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\edge\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\eflame\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\element\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\elight\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\falco\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\fox\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\gamewatch\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\ganon\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\gaogaen\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\gekkouga\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\ike\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\inkling\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\jack\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\kamui\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\ken\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\kirby\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\koopa\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\koopag\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\koopajr\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\krool\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\link\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\littlemac\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\lucario\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\lucas\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\lucina\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\luigi\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\mario\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\mariod\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\marth\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\master\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\metaknight\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\mewtwo\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\miifighter\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\miigunner\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\miiswordsman\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\murabito\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\nana\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\ness\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\packun\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\pacman\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\palutena\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\peach\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\pfushigisou\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\pichu\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\pickel\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\pikachu\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\pikmin\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\pit\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\pitb\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\plizardon\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\popo\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\ptrainer\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\purin\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\pzenigame\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\reflet\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\richter\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\ridley\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\robot\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\rockman\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\rosetta\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\roy\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\ryu\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\samus\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\samusd\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\sheik\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\shizue\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\shulk\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\simon\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\snake\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\sonic\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\szerosuit\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\tantan\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\toonlink\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\trail\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\wario\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\wiifit\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\wolf\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\yoshi\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\younglink\
+	  New Dir          0	C:\Users\bulba\Downloads\Important\Switch Modding Stuff\Smash Bros Stuff\Ultimate_File_Duplicator\Ultimate_File_Duplicator\lib\default_empty_taunt_folders\fighter\zelda\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        95        95         0         0         0         0
+   Files :         0         0         0         0         0         0
+   Bytes :         0         0         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Tuesday, January 16, 2024 3:17:51 PM
+
