@@ -8,19 +8,19 @@ import os, subprocess, shutil, msvcrt
 def main():
     # quit if input is empty
     inputContents = os.listdir(".\\input")
-    if ".placeholder" in inputContents:
-        os.remove(".\\input\\.placeholder") # remove placeholder from input
-        inputContents = os.listdir(".\\input")
+    outputContents = os.listdir(".\\output")
+    inputContents, outputContents = removePlaceholders(inputContents, outputContents)
     if len(inputContents) <= 0:
         print("No file(s) in input folder!")
         programEnd()
+    
     # prompt user to either quit or override when output already exists
-    if "My_Mod" in os.listdir(".\\output"):
+    if "My_Mod" in outputContents:
         a = input("Output found in output folder. Would you like to overwrite it? (Y/N): ")
         if a.lower() != "y":
             programEnd()
         else:
-            shutil.rmtree(".\\output\\My_Mod")  # creating a mod replaces placeholder in output
+            shutil.rmtree(".\\output\\My_Mod")
 
     copyCharFolders()
     for inputNum in range(len(inputContents)):
@@ -35,7 +35,7 @@ def main():
 
 # copy empty character folders to output
 def copyCharFolders():
-    args = "robocopy .\\lib\\default_empty_taunt_folders .\\output\\My_Mod /e /LOG:.\\logs\\copyingFoldersLog.log"
+    args = "robocopy .\\lib\\default_empty_taunt_folders .\\output\\My_Mod /e /xf * >nul"
     subprocess.run(args, stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT) # parameters hide output text
 
 
@@ -58,6 +58,16 @@ def copyInputFolder(inputNum):
         charPath = ".\\output\\My_Mod\\fighter\\" + char + "\\"
         args = "xcopy " + inputFilepath + " " + charPath + " /s"
         subprocess.call(args, stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT) # parameters hide output text.
+
+
+def removePlaceholders(inputContents, outputContents):
+    if ".placeholder" in inputContents:
+        os.remove(".\\input\\.placeholder") # remove placeholder from input
+        inputContents = os.listdir(".\\input")
+    if ".placeholder" in outputContents:
+        os.remove(".\\output\\.placeholder") # remove placeholder from output
+        outputContents = os.listdir(".\\output")
+    return inputContents, outputContents
 
 
 # Return the Filename of the current input file.
