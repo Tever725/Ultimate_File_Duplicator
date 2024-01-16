@@ -17,9 +17,9 @@ This will work with multiple input files, but be aware that they will all be pla
     
 ### DUPLICATING OTHER FILE(s):
 
-(Before trying this method please note that unlike animation files, most other files such as Voices and UI have names 
-that are character specific. This won't work on other characters without also being renamed, which this program cannot do 
-as of right now, so you will need to rename them manually after being copied.) 
+(Before trying this method, please note a few things. As of right now, this program can only duplicate files into the 
+character name folders within the "fighter" folder, so it cannot duplicate voices, ui, stages, etc.. Additionally, it
+doesn't rename files automatically, so files that have character-specific names will need to be renamed manually.)
         
 Place the file(s) you would like to duplicate into a tree branching from the <character name> folder, and put that in the
 "input" folder. For example, if you for wanted to duplicate the "model.nuhlpb" file to the 0th slot of all 
