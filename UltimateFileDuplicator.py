@@ -9,7 +9,6 @@ def main():
     # quit if input is empty
     inputContents = os.listdir(".\\input")
     outputContents = os.listdir(".\\output")
-    inputContents, outputContents = removePlaceholders(inputContents, outputContents)
     if len(inputContents) <= 0:
         print("No file(s) in input folder!")
         programEnd()
@@ -42,8 +41,8 @@ def copyCharFolders():
 # copy file from input to animations folder of all slots for all characters.
 def copyInputFile(inputNum):
     inputFilepath = getInputFilepath(inputNum)
-    directory = os.listdir(".\\output\\My_Mod\\fighter")
-    for char in directory:
+    characterFolders = os.listdir(".\\output\\My_Mod\\fighter")
+    for char in characterFolders:
         for i in range(0, 8):
             altNumberPath = ".\\output\\My_Mod\\fighter\\" + char + "\\motion\\body\\c0" + str(i) + "\\"
             args = "xcopy " + inputFilepath + " " + altNumberPath + " /s"
@@ -58,16 +57,6 @@ def copyInputFolder(inputNum):
         charPath = ".\\output\\My_Mod\\fighter\\" + char + "\\"
         args = "xcopy " + inputFilepath + " " + charPath + " /s"
         subprocess.call(args, stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT) # parameters hide output text.
-
-
-def removePlaceholders(inputContents, outputContents):
-    if ".placeholder" in inputContents:
-        os.remove(".\\input\\.placeholder") # remove placeholder from input
-        inputContents = os.listdir(".\\input")
-    if ".placeholder" in outputContents:
-        os.remove(".\\output\\.placeholder") # remove placeholder from output
-        outputContents = os.listdir(".\\output")
-    return inputContents, outputContents
 
 
 # Return the Filename of the current input file.
