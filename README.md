@@ -40,9 +40,6 @@ lib\default_empty_taunt_folders directory and remove/change any folders that you
 I hope at least some people find this tool useful! It started out as a personal tool to automate the process of duplicating 
 taunts onto all characters, but I figured I might as well get some experience in releasing programs to the public. I plan to 
 expand on this program sometime in the future, including learning how to make a GUI and implementing additional features.
-And if you're wondering about the .placeholder files, they're only here because GitHub doesn't keep track of empty folders,
-so you can delete once they're on your computer if needed. The program will also delete them itself, except for the empty
-character folders since I'm lazy lol.
 
 I would also appreciate any feedback on issues or things I should change. This program is not perfect and could definitely be 
 optimized further, and may have issues that I missed. If you find anything let me know at either my Gamebanana (https://
